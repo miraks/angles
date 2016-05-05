@@ -1,0 +1,14 @@
+{
+  "name": "angles",
+  "private": true,
+  "version": "1.0.0",
+  "main": "angles.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/miraks/angles.git"
+  },
+  "bugs": {
+    "url": "https://github.com/miraks/angles/issues"
+  },
+  "homepage": "https://github.com/miraks/angles#readme"
+}
